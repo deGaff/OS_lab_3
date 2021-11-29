@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Stud/5 sem/os/l3/multithread_pi.cpp
+multithread_pi.h
+E:/Stud/5 sem/os/l3/multithread_pi.h
+safe_input.h
+E:/Stud/5 sem/os/l3/safe_input.h
+omp.h
+-
+iomanip
+-
+vector
+-
+
+E:/Stud/5 sem/os/l3/multithread_pi.h
+windows.h
+-
+chrono
+-
+
+E:/Stud/5 sem/os/l3/safe_input.h
+iostream
+-
+limits
+-
+

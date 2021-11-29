@@ -1,0 +1,3 @@
+"E:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\l3.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\l3.dir/objects.a @CMakeFiles\l3.dir\objects1.rsp
+C:\mingw64\bin\g++.exe  -std=c++17 -fopenmp -g -Wl,--whole-archive CMakeFiles\l3.dir/objects.a -Wl,--no-whole-archive -o l3.exe -Wl,--out-implib,libl3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\l3.dir\linklibs.rsp
